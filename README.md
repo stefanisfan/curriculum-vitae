@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 Hi, I'm Isfan Stefan and I'm passionate about programming. I am starting my third year at the Faculty of Physics, majoring in physical computing at "Alexandru Ioan Cuza" University from Iași, Romania. I am excited to apply my knowledge and skills to real-world challenges and make a meaningful impact in the IT industry.
 
