@@ -4,4 +4,4 @@ Hi, I'm Isfan Stefan and I'm passionate about programming. I am starting my thir
 
 Throughout my academic journey, I have developed a solid foundation in computer science principles, including algorithms and data structures. I also specialized my programming skills in languages like Python, C and C++.
 
-## This is my CV: https://github.com/stefanisfan/curriculum-vitae/blob/main/Curriculum%20Vitae.pdf
+## This is my CV: https://github.com/stefanisfan/curriculum-vitae/blob/main/Curriculum%20Vitae%20(NEW).pdf
