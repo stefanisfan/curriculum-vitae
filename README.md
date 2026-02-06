@@ -4,4 +4,5 @@ Hi, my name is Ișfan Ștefan, I am 23 years old and I'm passionate about progra
 
 Throughout my academic journey, I have developed a solid foundation in computer science principles, including algorithms and data structures. I also specialized my programming skills in languages like Python, PHP, SQL, C and C++.
 
-## This is my CV: https://github.com/stefanisfan/curriculum-vitae/blob/main/Curriculum%20Vitae%20(NEWEST).pdf
+## This is my CV: [https://github.com/stefanisfan/curriculum-vitae/blob/main/Curriculum%20Vitae%20(NEWEST).pdf](https://github.com/stefanisfan/curriculum-vitae/blob/main/This%20is%20my%20main%20CV%20(2026%20Edition).pdf)
+
